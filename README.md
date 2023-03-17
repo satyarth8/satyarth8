@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Satyarth - a passionate coder. <br>Currently pursuing a B.Tech degree from GEC Khagaria,<br>I love solving challenging coding problems and enjoy playing <br>games like Valorant and CSGO. I also have experience in<br> video editing and graphic design using Premiere Pro and After Effects.
+Hi, I'm Satyarth - a passionate coder. <br>Currently pursuing a B.Tech degree from GEC Khagaria,<br>I love solving challenging coding problems and enjoy playing games like Valorant and CSGO.<br> I also have experience in video editing and graphic design using Premiere Pro ,After Effects and Photoshop.
 
 
 ## 🌐 Socials:
